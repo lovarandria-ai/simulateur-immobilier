@@ -1,0 +1,17 @@
+{
+  "name": "Simulateurs Immobilier Locatif",
+  "short_name": "Simu Immo",
+  "description": "Suite de simulateurs de rentabilité immobilière locative (LLD, Loc'Avantages, Denormandie, LCD, Commercial, Marchand de biens) avec dossiers de financement bancaire.",
+  "start_url": "./simulateur-immobilier.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0C1116",
+  "theme_color": "#0C1116",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
