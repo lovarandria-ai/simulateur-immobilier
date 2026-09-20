@@ -1,5 +1,5 @@
 /* Service worker — cache pour usage hors-ligne (agences, visites) */
-const CACHE = "simu-immo-v2";
+const CACHE = "simu-immo-v3";
 const CORE = [
   "./",
   "./simulateur-immobilier.html",
